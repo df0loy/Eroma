@@ -1,3 +1,2 @@
 # Eroma
-Eroma
-Hi
+Eroma.
